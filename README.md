@@ -36,18 +36,31 @@ PROCEDURE:
 
 CIRCUIT DIAGRAMS
 
-Half wave rectifier with filter:
+Half wave rectifier:
+
+![alt text](image-4.png)
 
 Bridge rectifier with filter:
 
+![alt text](image-5.png)
+
 TABULAR COLUMN
-Rectifier without filter
+Half wave rectifier:
+![alt text](<WhatsApp Image 2025-10-28 at 06.47.46_b2258c7d.jpg>)
+
 TABULAR COLUMN
-Rectifier with filter
+Full wave rectifier:
+![alt text](<WhatsApp Image 2025-10-28 at 06.48.13_12f47fa5.jpg>)
+
 
 WAVEFORM:
+Half wave rectifier:
 
+![alt text](image-1.png)
 
+Full wave rectifier:
+
+![alt text](image-2.png)
 RESULT:
 
 Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
